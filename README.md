@@ -40,5 +40,5 @@ Results-driven Software Design Engineer with 4.5+ years of experience building m
 
 ## Contact
 - ✉️ Email: aleynaniluzunoglu@gmail.com
-- 🔗 LinkedIn: (linkini buraya koy)
-- 🌐 Website: (varsa)
+- 🔗 LinkedIn: [(Nil Uzunoglu)](https://www.linkedin.com/in/niluzunoglu/)
+- 🌐 Website: [(Website)](https://niluzunoglu.github.io/)
