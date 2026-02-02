@@ -1,44 +1,53 @@
-# Aleyna Nil Uzunoğlu (Nil)
-Ankara, Türkiye · Software Design Engineer (Space/Defense) · M.Sc. (Thesis) @ YTU
+# Aleyna Nil Uzunoğlu (Nil) 🚀
 
-Results-driven Software Design Engineer with 4.5+ years of experience building mission-critical software in regulated aerospace environments (ECSS / CCSDS). Strong in Java & Python, backend systems, REST APIs, and high-reliability engineering practices. Currently focusing on Deep Learning + advanced signal processing for AI-driven system architecture.
+**Ankara, Türkiye** | **Software Design Engineer (Space/Defense)** | **M.Sc. Student @ Yıldız Technical University**
 
-## Focus Areas
-- 🚀 Space / defense software: ground-segment automation, telemetry & telecommand, standards-driven development
-- 🧠 AI/ML: deep learning pipelines, time-series & signal processing, evaluation-driven experimentation
-- 🧩 Systems: scalable backend design, verification mindset, clean architecture
+---
 
-## Experience
-- **Satellite Software Design Engineer — Turkish Aerospace (TUSAŞ)** (07/2023 – Present)  
-  Mission-critical satellite software, ground-segment components, T&C handling modules, CCSDS-aligned implementations, high-reliability processes (ECSS).
-- **Software Developer — KutuAI** (09/2022 – 07/2023)  
-  Integrations for customer feedback platforms, REST API & data processing.
-- **Software Developer — Sparta Cyber Security Technologies** (06/2021 – 09/2022)  
-  Security-minded web applications, automation tools for reporting, info-sec exposure.
+### 🛰️ Professional Summary
+Results-driven **Software Design Engineer** with 4.5+ years of experience building mission-critical software in regulated aerospace environments (**ECSS / CCSDS**). Currently bridging the gap between **Aerospace AI**, **High-Reliability Backend Systems**, and **Quantum Computing**.
 
-## Selected Projects
-- **TraceNet** — Exoplanet Detection from Kepler/TESS Light Curves (M.Sc. thesis)  
-  Deep learning + classical ML pipeline: preprocessing, feature extraction (PCA/LDA/SHAP), classification (CNN & ML).
-- **DeepSETI** — Artificial vs Natural Signal Classification (Research)  
-  Advanced signal processing + ML methods for SETI-style anomaly/classification tasks.
-- **SentinelGlacierNet** — Glacier Front Detection in Sentinel-1 SAR (CaFFe)  
-  U-Net / DeepLabV3+ / TransUNet / Swin-UNet / SAM comparisons; speckle-noise & complex surface challenges.
-- **CureAI** — Sepsis diagnosis & treatment recommendation (MIMIC)  
-  ML decision-support; 86.7% accuracy; award & TÜBİTAK support.
-- **SkySail** — CubeSat Project  
-  Structures/analysis/avionics coordination; subsystem requirements & validation exposure.
-- **EMG Motion Recognition** — comparative ML study on EMG time-series  
-  Multiple ML models + ANN/LSTM; scenario-based evaluation.
+---
 
-## Tech Stack
-- **Languages:** Java (21), Python
-- **Frontend:** React, JavaScript
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Space & Standards:** ECSS practices, CCSDS, T&C, ground-segment automation
-- **DevOps:** Git, CI/CD concepts, Docker/Kubernetes basics
-- **AI:** CNNs, Vision Transformers (SAM, Swin-UNet), time-series analysis, signal processing
+### 🎯 Focus Areas
+* 🚀 **Space / Defense Software:** Ground-segment automation, Telemetry & Telecommand (T&C), and standards-driven development.
+* 🧠 **AI/ML & Signal Processing:** Deep learning pipelines for exoplanet detection, SAR imagery, and time-series analysis.
+* ⚛️ **Quantum Computing:** Researching quantum algorithms and their future integration into secure space communications.
 
-## Contact
-- ✉️ Email: aleynaniluzunoglu@gmail.com
-- 🔗 LinkedIn: [(Nil Uzunoglu)](https://www.linkedin.com/in/niluzunoglu/)
-- 🌐 Website: [(Website)](https://niluzunoglu.github.io/)
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Quantum** | ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white) `Quantum Circuit Simulation (101+)` |
+| **AI / ML** | `CNNs`, `Vision Transformers (SAM, Swin-UNet)`, `Signal Processing`, `Time-series Analysis` |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) `GitHub Actions (CI/CD)` |
+| **Standards** | `ECSS`, `CCSDS`, `Ground-Segment Automation` |
+
+---
+
+### 🌟 Selected Projects
+
+* **[Quantum-Algorithm-Lab](https://github.com/niluzunoglu/quantum-circuit-lab)**: Interactive lab for simulating Grover and Shor algorithms.
+* **TraceNet**: Exoplanet detection pipeline from Kepler/TESS light curves using Deep Learning (M.Sc. Thesis).
+* **SentinelGlacierNet**: Comparative study on glacier front detection in SAR imagery using various U-Net architectures.
+* **CureAI**: Sepsis diagnosis and treatment recommendation system (86.7% accuracy, TÜBİTAK supported).
+
+---
+
+### 📈 GitHub Stats
+![Nil's GitHub stats](https://github-readme-stats.vercel.app/api?username=niluzunoglu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niluzunoglu&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+* ✉️ **Email:** [aleynaniluzunoglu@gmail.com](mailto:aleynaniluzunoglu@gmail.com)
+* 🔗 **LinkedIn:** [Nil Uzunoglu](https://www.linkedin.com/in/niluzunoglu/)
+* 🌐 **Portfolio:** [niluzunoglu.github.io](https://niluzunoglu.github.io/)
+
+---
+*"The best way to predict the future is to simulate it on a quantum computer."*
