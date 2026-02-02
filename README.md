@@ -1,4 +1,4 @@
-# Aleyna Nil Uzunoğlu (Nil) 🚀
+# Aleyna Nil Uzunoğlu 🚀
 
 **Ankara, Türkiye** | **Software Design Engineer (Space/Defense)** | **M.Sc. Student @ Yıldız Technical University**
 
@@ -39,8 +39,7 @@ Results-driven **Software Design Engineer** with 4.5+ years of experience buildi
 ---
 
 ### 📈 GitHub Stats
-![Nil's GitHub stats](https://github-readme-stats.vercel.app/api?username=niluzunoglu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niluzunoglu&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=niluzunoglu&theme=radical)
 
 ---
 
